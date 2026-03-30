@@ -36,4 +36,5 @@ Click the image above or [watch the video here](https://youtu.be/YOUR_VIDEO_ID).
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/social-sparks.git
+   https://github.com/Ashnab6969/SocialApp/tree/master
+   
