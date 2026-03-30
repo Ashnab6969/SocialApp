@@ -16,10 +16,8 @@
 
 ## 🎥 Video Demonstration
 
-[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Video Demo](https://youtu.be/RWfyH7hWSuU)
 
-Click the image above or [watch the video here](https://youtu.be/YOUR_VIDEO_ID).  
-*Replace the link with your actual unlisted YouTube video URL.*
 
 ---
 
